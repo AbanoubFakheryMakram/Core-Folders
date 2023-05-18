@@ -1,0 +1,31 @@
+class ImageAssets {
+  static String splashBg = 'assets/images/splash_bg_4x.png';
+  static String contactBg2 = 'assets/images/contact_bg_2.png';
+  static String contactUpperLayer = 'assets/images/uper_shadow.png';
+  static String homeSliderLayer = 'assets/images/home_slider_layer.png';
+  static String appBarDivider = 'assets/images/app_bar_divider.png';
+  static String gridProgramCurve = 'assets/images/gridProgramCurve.png';
+  static String articlesWholeLayer = 'assets/images/article_whole_layer.png';
+  static String mediaGalleryLayer = 'assets/images/media_gallery_img_layer.png';
+  static String bioPic = 'assets/images/bio_pic.png';
+  static String eventsPic = 'assets/images/event_pic.png';
+  static String successImg = 'assets/images/success_img.png';
+  static String noImgLink = 'assets/images/no_img_link.png';
+  static String imgThumnail = 'assets/images/image_thumnail.png';
+  static String pdfThumnail = 'assets/images/pdf_thumnail.png';
+  static String requestToHostAnEventImg = 'assets/images/request_to_host_an_event_img.png';
+  static String requestAMeetingSpaceImg = 'assets/images/request_a_meeting_space_img.png';
+  static String requestToPostAJobImg = 'assets/images/post_a_job_img.png';
+  static String requestRegulatorsScheduleImg = 'assets/images/regulators_schedule.png';
+  static String requestForVisitorPermitImg = 'assets/images/visitor_permit.png';
+  static String requestForConciergeServiceImg = 'assets/images/concierge_service.png';
+  static String requestAMeetingSpaceSimpleImg = 'assets/images/request_meeting_space_simgle.png';
+  static String requestToPostAJobSimpleImg = 'assets/images/request_post_job_simple.png';
+  static String requestRegulatorsScheduleSimpleImg = 'assets/images/regulators_schedule_simple.png';
+  static String requestForVisitorPermitSimpleImg = 'assets/images/visitor_permit_simple.png';
+  static String requestForConciergeServiceSimpleImg = 'assets/images/concierge_service_simple.png';
+  static String requestToHostEventSimpleImg = 'assets/images/host_event_simple.png';
+  static String resetPasswordImg = 'assets/images/reset_password_img.png';
+  static String room1Img = 'assets/images/room1.jpg';
+  static String room2Img = 'assets/images/room2.png';
+}

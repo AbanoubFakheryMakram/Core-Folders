@@ -1,0 +1,40 @@
+import 'package:flutter/material.dart';
+
+class AppColors {
+  static const Color white = Colors.white;
+  static const Color black = Colors.black;
+  static const Color green = Colors.green;
+  static const Color roomConsumptionColor = Color(0xff63DD8F);
+  static const Color roomConsumptionBackgroundColor = Color(0xffEFEFEF);
+  static const Color error = Colors.red;
+  static const Color progressInactiveColor = Color(0xffE4E4E4);
+  static const Color mainColor = Color(0xffE82490);
+  static const Color purple = Color(0xff5130B5);
+  static const Color textFormFieldBorderColor1 = Color(0xffD8D8D8);
+  static const Color textFormFieldFillColor1 = Color(0xffF1F1F1);
+  static const Color textFormFieldHintColor = Color(0xff8D8D8D);
+  static const Color profileCircleFillColor = Color(0xffECECEC);
+  static const Color grey = Colors.grey;
+  static const Color darkGrey = Color(0xff595959);
+  static const Color newsDateColor = Color(0xff9C9C9C);
+  static const Color sliderInactiveDot = Color(0xff888888);
+  static const Color morePageDividerColor = Color(0xffD4D4D4);
+  static const Color morePageTileColor = Color(0xffF9F9F9);
+  static const Color disabledColor = Color(0xffDEDEDE);
+  static const Color gridBenefitsBottomContainerColor = Color(0xffEFEFEF);
+  static const Color bottomNavigationBarInactiveColor = Color(0xff8D8D8D);
+  static const Color bottomNavigationBarActiveBackgroundColor = Color(0xff070303);
+  static const Color mediaGalleryBackgroundColor = Color(0xffFAFAFA);
+  static const Color tabBarSelectedColor = Color(0xff1E1E1E);
+  static const Color profilePictureAndNameContainerColor = Color(0xffEAEAEA);
+  static const Color profilePersonalInfoContainerColor = Color(0xffF6F6F6);
+  static const Color profilePersonalInfoItemColor = Color(0xff535658);
+  static const Color calenderDaysLabelColor = Color(0xffBDBDBD);
+  static const Color calenderDaysColor = Color(0xff020202);
+  static const Color dividerColor = Color(0xffF3F3F3);
+  static const Color upcomingColor = Color(0xffFF8B02);
+  static const Color unselectedOptionInDialogsColor = Color(0xff626568);
+  static const Color meetingRoomDotsColor = Color(0xff303030);
+  static const Color alreadyBookedTimeBackgroundColor = Color(0xffE8E8E8);
+  static const Color meetingRoomsAvailableCardTime = Color(0xffe8e5e5);
+}
